@@ -1,2 +1,6 @@
 # CNNDogsVsCats
-Algorithm to classify whether images contain either a dog or a cat
+
+Algorithm with nearly 100% accuracy determination images of cats and dogs.
+
+Images used from Kaggle dataset:
+https://www.kaggle.com/c/dogs-vs-cats/overview/description
